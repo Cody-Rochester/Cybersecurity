@@ -8,4 +8,4 @@ My first step was to enter the url 10.10.212.184 into my web browser to check on
 insert pickle rick homepage image
 
 Found in View Source- Username:R1ckRul3s
-![[pickle rick ctf homepage.png]]
+[pickle rick ctf homepage](https://github.com/Cody-Rochester/Obsidian-git-sync/assets/107632714/5fc63bc0-8f3e-4e65-9299-136c1836c6dc)
