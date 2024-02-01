@@ -37,7 +37,7 @@ The login.php link guides us to a typical login page, and the robots.txt link le
 
 I decided to attempt using this string from robots.txt as a password and was successful.
 
-From here we were given a command line labeled "command"
+From here we were given a command line labeled "command panel" with an "execute" button underneath.
 
 After exploring the files and directories a bit, I decided to run a grep -R . command where the . serves as a wildcard matching all characters. This command outputs each character available recursively. It isn't ideal in terms of organizing the data, but it's a great way to get an idea of the amount of information we are looking at. 
 
