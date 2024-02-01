@@ -8,3 +8,4 @@ My first step was to enter the url 10.10.212.184 into my web browser to check on
 insert pickle rick homepage image
 
 Found in View Source- Username:R1ckRul3s
+![[pickle rick ctf homepage.png]]
