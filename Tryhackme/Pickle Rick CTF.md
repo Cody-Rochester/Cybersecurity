@@ -15,7 +15,7 @@ Looking into the source of the landing page, we find a username.
 
 - Username:R1ckRul3s
 
-After taking a look webpage, I decided to do a portscan using the nmap tool. Utilizing the -sV and -A flags, I will be able to gain information about open ports, operating systems, versions, script scans, and tracerouting. 
+After taking a look webpage, I decided to do a portscan using the nmap tool. Utilizing the -sV and -A flags, I was able to gain information about open ports, operating systems, versions, script scans, and tracerouting. 
 
 ![sudo nmap -sV -A](https://github.com/Cody-Rochester/Obsidian-git-sync/assets/107632714/6f9ef322-61d3-40fc-9b14-8e75737882ae)
 
