@@ -3,48 +3,115 @@
  ### youtube link
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project is creating a simulated large scale Active Directory environment. We accomplish this by running two Windows virtual machines using Oracle Virtual Box. One of the machines will act as the domain controller and the other acts as an individual client accessing the network through the internal network.  In order to simulate the large environment, we will be using a Powershell script to create 1,000 users. This exercise includes Domain /AD DS, RAS/NAT, DHCP (1 Scope), Domain Controller setup, VMWare Network, and client access of the internet through domain controller on an AD environment.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Active Directory</b>
+- <b>Oracle Virtual Box</b>
+- <b>RAS/NAT</b>
+- <b>DHCP</b>
+- <b>IAM</b>
+
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
-
+- <b>Windows 10</b>
+- <b>Windows 19</b>
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download and Spin up the Windows 10 and Windows 2019 VMs: <br/>
+
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Set up IP Addressing on Domain Controller (Windows 2019 vm). Two NICs are required. One will be connecting to the internet, and the other wil be our internal network. The internet IP will be dynamically assigned, and we will manually set up our internal network IP:  <br/>
+
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Rename PC through Start Menu > System > Rename PC: <br/>
+
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Install Active Directory Domain Services:  <br/>
+
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configure the Post Deployment Settings:  <br/>
+
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create a Dedicated Domain Admin Account:  <br/>
+
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create an Organizational Unit:  <br/>
+
+<br />
+<br />
+Create a New User: <br/>
+
+<br />
+<br />
+Make a Domain Admin:  <br/>
+
+<br />
+<br />
+Configure Routing and Remote Access:  <br/>
+
+<br />
+<br />
+Install NAT:  <br/>
+
+<br />
+<br />
+Set Up a DHCP Server on the Domain Controller: <br/>
+
+<br />
+<br />
+DHCP:  <br/>
+
+<br />
+<br />
+Configure Lease Duration:  <br/>
+
+<br />
+<br />
+Configure DHCP Options:  <br/>
+
+<br />
+<br />
+Add an IP Address for a Router: <br/>
+
+<br />
+<br />
+Source Code for the Powershell Script:  <br/>
+
+<br />
+<br />
+Start the Windows 10 VM which will serve as our End-User:  <br/>
+
+<br />
+<br />
+Complete the User Config:  <br/>
+
+<br />
+<br />
+Add the Domain Controller: <br/>
+
+<br />
+<br />
+Address Leases:  <br/>
+
+<br />
+<br />
+Active Directory Users and Computers:  <br/>
+
+<br />
+<br />
 </p>
 
 <!--
