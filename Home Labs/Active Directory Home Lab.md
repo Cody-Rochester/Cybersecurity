@@ -1,7 +1,7 @@
 <h1>Active Directory Home Lab</h1>
 
 <h2>Description</h2>
-<b>This project is creating a simulated large scale corporate Active Directory environment. This is accomplished by running two Windows virtual machines using Oracle Virtual Box. One of the machines will act as the domain controller and the other acts as an individual client/end-user accessing the internet through the internal network.  In order to simulate the large environment, we will be using a Powershell script to create 1,000 users. This exercise includes AD DS, RAS/NAT, DHCP (1 Scope), Domain Controller setup, VM Network, and more.
+<b>This project is creating a simulated large scale corporate Active Directory environment. This is accomplished by running two Windows virtual machines using Oracle VirtualBox. One of the machines will act as the domain controller and the other acts as an individual client/end-user accessing the internet through the internal network.  In order to simulate the large environment, we will be using a Powershell script to create 1,000 users. This exercise includes AD DS, RAS/NAT, DHCP (1 Scope), Domain Controller setup, VM Network, and more.
 <br/>
  
 ![AD Home Lab Architecture Graphic](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/14325a6a-36d2-465a-8e99-9866658ca53a)
@@ -10,7 +10,7 @@
 <h2>Languages and Utilities Used</h2>
 
 - <b>Active Directory</b>
-- <b>Oracle Virtual Box</b>
+- <b>Oracle VirtualBox</b>
 - <b>RAS/NAT</b>
 - <b>PowerShell</b> 
 - <b>DHCP</b>
@@ -30,7 +30,7 @@ Download and Spin up a Windows 2019 VM to Serve as our Domain Controller Named D
 
 <br />
 <br />
-Set up IP Addressing on Domain Controller (Windows 2019 vm). Two NICs are required. One will be connecting to the internet, and the other wil be our internal network. The internet IP will be dynamically assigned, and we will manually set up our internal network IP:  <br/>
+Set up IP Addressing on Domain Controller (Windows 2019 vm). Two NICs are Required. One Will be Connecting to the Internet, and the Other wil be our Internal Network. The Internet IP will be Dynamically Assigned, and We will Manually sSet Up our Internal Network IP:  <br/>
 
 ![DC Internet Settings 2](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/b3de260e-ce9e-4460-99ce-46c4c0690d4e)
 ![DC Internet Identified Home IP Address 3](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/cd489856-2595-496e-8b80-2da05f4fabf7)
