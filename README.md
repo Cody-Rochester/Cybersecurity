@@ -23,13 +23,6 @@ Embark on a journey through my home lab experiments, where I simulate real-world
 
 - [Active Directory Home Lab](https://github.com/Cody-Rochester/Cybersecurity/blob/main/Home%20Labs/Active%20Directory%20Home%20Lab.md) - Join me in setting up a simulated corporate AD environment. The end result is an AD Domain with 1,000+ users that can access the internet through a NAT. One VM is running the domain controller on a Windows 2019 Server, and the other is simulating any of the 1,000 end-users on a Windows 10 Desktop VM. 
 
-## Professional Experience
-Discover my professional cybersecurity experience, including work on real-world projects, collaboration with industry experts, and continuous learning initiatives. These projects reflect my commitment to staying current with industry trends and contributing to the ever-evolving field of cybersecurity.
-
-- [Incident Response Plan Implementation](#) - Learn about my role in implementing an effective incident response plan, including incident detection, analysis, and mitigation strategies.
-
-- [Security Awareness Training](#) - Explore my contribution to enhancing cybersecurity awareness within organizations through the development and delivery of comprehensive security training programs.
-
 ## Skills and Technologies
 - **Penetration Testing:** Hands-on experience in identifying and exploiting vulnerabilities.
 - **Cryptography:** Proficient in cryptographic principles and their application in securing systems.
