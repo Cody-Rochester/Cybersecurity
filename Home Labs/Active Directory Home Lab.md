@@ -1,7 +1,7 @@
 <h1>Active Directory Home Lab</h1>
 
 <h2>Description</h2>
-<b>This project is creating a simulated large scale Active Directory environment. This is accomplished by running two Windows virtual machines using Oracle Virtual Box. One of the machines will act as the domain controller and the other acts as an individual client/end-user accessing the internet through the internal network.  In order to simulate the large environment, we will be using a Powershell script to create 1,000 users. This exercise includes AD DS, RAS/NAT, DHCP (1 Scope), Domain Controller setup, VM Network, and more.
+<b>This project is creating a simulated large scale corporate Active Directory environment. This is accomplished by running two Windows virtual machines using Oracle Virtual Box. One of the machines will act as the domain controller and the other acts as an individual client/end-user accessing the internet through the internal network.  In order to simulate the large environment, we will be using a Powershell script to create 1,000 users. This exercise includes AD DS, RAS/NAT, DHCP (1 Scope), Domain Controller setup, VM Network, and more.
 <br/>
  
 ![AD Home Lab Architecture Graphic](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/14325a6a-36d2-465a-8e99-9866658ca53a)
