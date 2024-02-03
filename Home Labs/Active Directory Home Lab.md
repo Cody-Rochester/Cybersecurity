@@ -25,38 +25,47 @@
 
 <p align="center">
 Download and Spin up the Windows 10 and Windows 2019 VMs: <br/>
+ ![windows 19 download 1](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/d3479784-4d60-452a-9945-3857275e6faf)
+ ![windows 10 download 21](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/f9d43c5f-01ea-423d-af35-e377f18cb53d)
 
 <br />
 <br />
 Set up IP Addressing on Domain Controller (Windows 2019 vm). Two NICs are required. One will be connecting to the internet, and the other wil be our internal network. The internet IP will be dynamically assigned, and we will manually set up our internal network IP:  <br/>
+ ![DC Internet Settings 2](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/b3de260e-ce9e-4460-99ce-46c4c0690d4e)
+ ![DC Internet Identified Home IP Address 3](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/cd489856-2595-496e-8b80-2da05f4fabf7)
+ ![DC Internet Identified Internal Network 4](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/7d921b10-8ca0-44bf-923e-efb99347a81e)
 
 <br />
 <br />
 Rename PC through Start Menu > System > Rename PC: <br/>
+![Renaming PC to DC1 6](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/818e6b04-2a21-49c1-9ac3-4f38ca3a9eba)
+
+<br />
+<br />
+Set IP Address for Domain Controller Internal Network: <br/>
+![Set IP Address for Domain Controller Internal Network 5](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/a6587e4b-5116-49b3-a8d4-c7f44de3fa72)
 
 <br />
 <br />
 Install Active Directory Domain Services:  <br/>
+![Downloading AD and Selecting Domain 7](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/940fcc44-b0bf-4dce-8340-988335a5062d)
 
 <br />
 <br />
 Configure the Post Deployment Settings:  <br/>
+![Post Deployment Configuration 8](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/e4c1dfc5-c991-4a7e-9aad-aef9493e9c41)
+![Post Deployment Configuration 2 9](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/d568f5b4-6a7b-4d89-93b9-bafaf0a304ff)
 
 <br />
 <br />
-Create a Dedicated Domain Admin Account:  <br/>
+Create an Organization Unit Named ADMINS, Create a New User and Make it the Domain Admin Account:  <br/>
+![Organizational Unit and New Admin User Creation 10](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/9d1afc4f-29cf-4b3d-b63d-30645a6660b4)
 
 <br />
 <br />
-Create an Organizational Unit:  <br/>
 
-<br />
-<br />
-Create a New User: <br/>
-
-<br />
-<br />
-Make a Domain Admin:  <br/>
+Logging in as New Admin Account: <br/>
+![Logging in as New Admin User 11](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/8e62d8b0-2b35-403c-a378-e4ad72389fcd)
 
 <br />
 <br />
