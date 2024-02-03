@@ -40,6 +40,5 @@ Discover my professional cybersecurity experience, including work on real-world 
 ## Contact Information
 Feel free to reach out if you have questions, feedback, or if you're interested in collaborating on cybersecurity projects.
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Twitter:** [@YourTwitterHandle](#)
+- **Email:** cody.michael.rochester@gmail.com
+- **LinkedIn:** [codyro](https://linkedin.com/in/codyro)
