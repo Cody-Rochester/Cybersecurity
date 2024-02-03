@@ -3,16 +3,16 @@
  ### youtube link
 
 <h2>Description</h2>
-This project is creating a simulated large scale Active Directory environment. We accomplish this by running two Windows virtual machines using Oracle Virtual Box. One of the machines will act as the domain controller and the other acts as an individual client accessing the network through the internal network.  In order to simulate the large environment, we will be using a Powershell script to create 1,000 users. This exercise includes Domain /AD DS, RAS/NAT, DHCP (1 Scope), Domain Controller setup, VMWare Network, and client access of the internet through domain controller on an AD environment.
-<br />
+<b>This project is creating a simulated large scale Active Directory environment. We accomplish this by running two Windows virtual machines using Oracle Virtual Box. One of the machines will act as the domain controller and the other acts as an individual client accessing the network through the internal network.  In order to simulate the large environment, we will be using a Powershell script to create 1,000 users. This exercise includes Domain /AD DS, RAS/NAT, DHCP (1 Scope), Domain Controller setup, VMWare Network, and client access of the internet through domain controller on an AD environment.
+<br/>
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
 - <b>Active Directory</b>
 - <b>Oracle Virtual Box</b>
 - <b>RAS/NAT</b>
+- <b>PowerShell</b> 
 - <b>DHCP</b>
 - <b>IAM</b>
 
