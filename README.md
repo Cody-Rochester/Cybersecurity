@@ -5,7 +5,6 @@ Welcome to my GitHub repository showcasing a collection of cybersecurity project
 ## Table of Contents
 - [CTF Challenges](#ctf-challenges)
 - [Home Lab Projects](#home-lab-projects)
-- [Professional Experience](#professional-experience)
 - [Skills and Technologies](#skills-and-technologies)
 - [Contact Information](#contact-information)
 
