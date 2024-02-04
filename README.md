@@ -18,7 +18,7 @@ Explore my solutions to various Capture The Flag challenges. These projects demo
 ## Home Lab Projects
 Embark on a journey through my home lab experiments, where I simulate real-world cybersecurity scenarios, set up security infrastructure, and fine-tune defensive mechanisms. These projects illustrate my practical knowledge in creating secure environments for testing and learning.
 
-- [Network Security Configuration](#) - Explore my home lab's network security configuration, where I implement firewalls, intrusion detection systems, and other protective measures to enhance overall network resilience.
+- [Sentinel Live Attacks Heat Map SIEM Lab](https://github.com/Cody-Rochester/Cybersecurity/blob/main/Home%20Labs/Sentinel_Live_Attacks_Heat_Map_SIEM_Lab/README.md.md) - Take a look at my honeypot VM set up in Azure. I utilize Azure VM, Logs Analytics Workspace, Sentinel, and a PowerShell script to create a heat map including the locations of the RDP Brute Force attempts coming in from all over the world.
 
 - [Active Directory Home Lab](https://github.com/Cody-Rochester/Cybersecurity/blob/main/Home%20Labs/Active%20Directory%20Home%20Lab.md) - Join me in setting up a simulated corporate AD environment. The end result is an AD Domain with 1,000+ users that can access the internet through a NAT. One VM is running the domain controller on a Windows 2019 Server, and the other is simulating any of the 1,000 end-users on a Windows 10 Desktop VM. 
 
