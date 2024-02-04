@@ -22,11 +22,20 @@ This demo is a way to observe live Brute Force attacks from across the globe. Th
 - <b>Azure Logging and Analytics Workspace:</b> Linking PowerShell script to custom log to collect and parse data
 - <b>Azure Sentinel:</b> Organize and display information gathered from attackers in a map format
 
-<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
+<h2>Tests coming in; Custom logs being output with geodata</h2>
+
+![18 Confirmed TEST FAIL](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/c18a1b0f-2d53-4729-b67a-72dd848ef276)
 
 
+<h2>World map of incoming attacks after 1 hour</h2>
 
+![22 Heat Map Day 1](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/bf3cf66c-d528-47de-8511-cf5585a39889)
+
+<br />
+<br />
 <h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
+
+![23 Heat Map Day 2](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/4af779ba-edb5-415b-a7a9-f0fbe4838411)
 
 
 
