@@ -5,14 +5,13 @@ Welcome to my GitHub repository showcasing a collection of cybersecurity project
 ## Table of Contents
 - [CTF Challenges](#ctf-challenges)
 - [Home Lab Projects](#home-lab-projects)
-- [Professional Experience](#professional-experience)
 - [Skills and Technologies](#skills-and-technologies)
 - [Contact Information](#contact-information)
 
 ## CTF Challenges
 Explore my solutions to various Capture The Flag challenges. These projects demonstrate my problem-solving skills, cryptography knowledge, and proficiency in exploiting vulnerabilities to achieve specific goals. Each challenge is an opportunity for me to enhance my cybersecurity expertise and share my insights with the community.
 
-- [Pickle Rick CTF](#) - An exciting Rick and Morty-themed challenge involving web exploitation to help Rick transform back from a pickle. Check out the step-by-step process and key takeaways in the project documentation.
+- [Pickle Rick CTF](https://github.com/Cody-Rochester/Cybersecurity/blob/main/Tryhackme/Pickle%20Rick%20CTF.md) - An exciting Rick and Morty-themed challenge involving web exploitation to help Rick transform back from a pickle. Check out the step-by-step process and key takeaways in the project documentation.
 
 - [Binary Reversing Challenge](#) - Delve into the world of binary reversing as I dissect and solve a challenging CTF challenge, showcasing my skills in reverse engineering.
 
@@ -21,14 +20,7 @@ Embark on a journey through my home lab experiments, where I simulate real-world
 
 - [Network Security Configuration](#) - Explore my home lab's network security configuration, where I implement firewalls, intrusion detection systems, and other protective measures to enhance overall network resilience.
 
-- [Penetration Testing Lab](#) - Join me in setting up a penetration testing environment, complete with vulnerable systems and tools, to practice and refine penetration testing skills in a controlled environment.
-
-## Professional Experience
-Discover my professional cybersecurity experience, including work on real-world projects, collaboration with industry experts, and continuous learning initiatives. These projects reflect my commitment to staying current with industry trends and contributing to the ever-evolving field of cybersecurity.
-
-- [Incident Response Plan Implementation](#) - Learn about my role in implementing an effective incident response plan, including incident detection, analysis, and mitigation strategies.
-
-- [Security Awareness Training](#) - Explore my contribution to enhancing cybersecurity awareness within organizations through the development and delivery of comprehensive security training programs.
+- [Active Directory Home Lab](https://github.com/Cody-Rochester/Cybersecurity/blob/main/Home%20Labs/Active%20Directory%20Home%20Lab.md) - Join me in setting up a simulated corporate AD environment. The end result is an AD Domain with 1,000+ users that can access the internet through a NAT. One VM is running the domain controller on a Windows 2019 Server, and the other is simulating any of the 1,000 end-users on a Windows 10 Desktop VM. 
 
 ## Skills and Technologies
 - **Penetration Testing:** Hands-on experience in identifying and exploiting vulnerabilities.
@@ -40,6 +32,5 @@ Discover my professional cybersecurity experience, including work on real-world 
 ## Contact Information
 Feel free to reach out if you have questions, feedback, or if you're interested in collaborating on cybersecurity projects.
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Twitter:** [@YourTwitterHandle](#)
+- **Email:** cody.michael.rochester@gmail.com
+- **LinkedIn:** [codyro](https://linkedin.com/in/codyro)
