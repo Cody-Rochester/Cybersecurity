@@ -16,18 +16,44 @@ This demo is a way to observe live Brute Force attacks from across the globe. Th
 - <b>C#:</b> Used to: Log keystrokes, create log files, log into gmail account, create draft, add string to draft, attach log to draft, and send to target email
 
 
-<h2>Tests coming in; Custom logs being output with geodata</h2>
+<h2>Open Source .sln file in Visual Studio</h2>
+
+![keylogger source](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/03f667a5-4926-4ed2-b8f9-758f0e7bcd2e)
 
 
+<h2>Press run in Visual Studio to begin logging</h2>
 
-
-<h2>World map of incoming attacks after 1 hour</h2>
+![logging](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/96ec1009-68bb-4533-85d3-1fbf77d996b7)
 
 
 
 <br />
 <br />
-<h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
+<h2>The logger sends an email with the string and a file attachment also containing that info. Here the string is set to 300 but can be adjusted</h2>
+
+![logger sending email automatically](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/ee75896a-c5d4-4e8b-b8ef-988845424364)
+
+<h2>To conceal the application, in "Properties" on the project, change "Console Application" to "Windows Appliation"</h2>
+
+![in properties change from console to windows to conceal the process](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/d3ace3e5-e45a-4376-8645-47029220a90b)
+
+![switched](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/dc1f5679-66f2-4d46-84b7-1d2bd1128077)
+
+<br />
+<br />
+<h2>Emails continue to come in while running the application as a Windows Application</h2>
+
+![still sending logged emails while running concealed](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/6b097ca1-b9d7-4caa-a2b5-8543e66fa65d)
+
+
+<h2>Using Task Scheduler we can set this application to run on startup creating a deeper level of persistence</h2>
+
+![task scheduler to set task to run on startup](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/692aa34a-923a-44fe-83a7-c66d0343d6b2)
+
+
+<br />
+<br />
+<h2>In order to allow gmail to send emails like this, you will need to activate 2-factor auth and get an application password</h2>
 
 
 
