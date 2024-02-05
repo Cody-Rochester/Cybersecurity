@@ -10,7 +10,7 @@
 
 <h2>Languages Used</h2>
 
-- <b>C#:</b> 
+- <h2>C#</h2> 
 
 
 <h2>Open Source .sln file in Visual Studio</h2>
