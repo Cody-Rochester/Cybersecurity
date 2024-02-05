@@ -1,11 +1,8 @@
 <h1>FOR EDUCATIONAL USE ONLY</h1>
 <h1>Keylogger with Email Output</h1>
 <h2>Description</h2>
-<b> Using a third party API, I'm able to run a PowerShell script to send real-time failed RDP info (event 4625) to collect geographic data that is then given to a custom log in Sentinel. From there we set up a workbook that displays that custom log in a live (updates every 5min) heat map of the world.
+<b> This is an example of a keylogger written in C#. It's primary function is to log keystrokes > convert that data into strings > create log files > access an email account through SMTP > create a draft > add the string to that draft > add the attachment to that draft > and send to a target email. The length of the strings logged, as well as the sending and receiving email addresses are all fully customizable utilizing this process. We also will cover how to run the process as a windows application to make it difficult to detect, as well as an option to set this application to run on startup creating stronger persistence.
 </b>
-<br />
-<br />
-This demo is a way to observe live Brute Force attacks from across the globe. The script does need to be running on the target machine in order to relay the information to our SIEM, so this isn't a practical tool for real world situations, but it is a very interesting way to collect and display information on attackers. 
 
 <br />
 <br />
@@ -13,7 +10,7 @@ This demo is a way to observe live Brute Force attacks from across the globe. Th
 
 <h2>Languages Used</h2>
 
-- <b>C#:</b> Used to: Log keystrokes, create log files, log into gmail account, create draft, add string to draft, attach log to draft, and send to target email
+- <b>C#:</b> 
 
 
 <h2>Open Source .sln file in Visual Studio</h2>
