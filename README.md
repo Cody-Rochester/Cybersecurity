@@ -20,7 +20,11 @@ Embark on a journey through my home lab experiments, where I simulate real-world
 
 - [Sentinel Live Attacks Heat Map SIEM Lab](https://github.com/Cody-Rochester/Cybersecurity/blob/main/Home%20Labs/Sentinel_Live_Attacks_Heat_Map_SIEM_Lab/README.md) - Take a look at my honeypot VM set up in Azure. I utilize Azure VM, Logs Analytics Workspace, Sentinel, and a PowerShell script to create a heat map including the locations of the RDP Brute Force attempts coming in from all over the world.
 
-- [Active Directory Home Lab](https://github.com/Cody-Rochester/Cybersecurity/blob/main/Home%20Labs/Active%20Directory%20Home%20Lab.md) - Join me in setting up a simulated corporate AD environment. The end result is an AD Domain with 1,000+ users that can access the internet through a NAT. One VM is running the domain controller on a Windows 2019 Server, and the other is simulating any of the 1,000 end-users on a Windows 10 Desktop VM. 
+- [Active Directory Home Lab](https://github.com/Cody-Rochester/Cybersecurity/blob/main/Home%20Labs/Active%20Directory%20Home%20Lab.md) - Join me in setting up a simulated corporate AD environment. The end result is an AD Domain with 1,000+ users that can access the internet through a NAT. One VM is running the domain controller on a Windows 2019 Server, and the other is simulating any of the 1,000 end-users on a Windows 10 Desktop VM.
+
+## Coding Projects
+### C#:
+- [Keylogger with Email Output](https://github.com/Cody-Rochester/Cybersecurity/tree/main/Home%20Labs/Keylogger%20with%20Email%20Output)
 
 ## Skills and Technologies
 - **Penetration Testing:** Hands-on experience in identifying and exploiting vulnerabilities.
