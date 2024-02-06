@@ -11,7 +11,7 @@ Welcome to my GitHub repository showcasing a collection of cybersecurity project
 ## CTF Challenges
 Explore my solutions to various Capture The Flag challenges. These projects demonstrate my problem-solving skills, and proficiency in exploiting vulnerabilities to achieve specific goals. Each challenge is an opportunity for me to enhance my cybersecurity expertise and share my insights with the community.
 
-- [Pickle Rick CTF](https://github.com/Cody-Rochester/Cybersecurity/blob/main/Tryhackme/Pickle%20Rick%20CTF.md) - An exciting Rick and Morty-themed challenge involving web exploitation to help Rick transform back from a pickle. Check out the step-by-step process and key takeaways in the project documentation.
+- [Pickle Rick CTF](https://github.com/Cody-Rochester/Cybersecurity/blob/main/Tryhackme/Pickle%20Rick%20CTF.md) - TryHackMe's exciting Rick and Morty-themed challenge involving web exploitation to help Rick transform back from a pickle. Check out the step-by-step process and key takeaways in the project documentation.
 
 
 ## Home Lab Projects
