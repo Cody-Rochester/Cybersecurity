@@ -49,7 +49,7 @@ The length of the strings logged, as well as the sending and receiving email add
 <h2>C#</h2> 
 
 
-<h2>Open Source .sln file in Visual Studio</h2>
+<h2>Open the source .sln file in Visual Studio</h2>
 
 ![keylogger source](https://github.com/Cody-Rochester/Cybersecurity/assets/107632714/03f667a5-4926-4ed2-b8f9-758f0e7bcd2e)
 
