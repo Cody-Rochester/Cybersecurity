@@ -22,7 +22,7 @@ Embark on a journey through my home lab experiments, where I simulate real-world
 
 - [Active Directory Home Lab](https://github.com/Cody-Rochester/Cybersecurity/blob/main/Home%20Labs/Active%20Directory%20Home%20Lab.md) - Join me in setting up a simulated corporate AD environment. The end result is an AD Domain with 1,000+ users that can access the internet through a NAT. One VM is running the domain controller on a Windows 2019 Server, and the other is simulating any of the 1,000 end-users on a Windows 10 Desktop VM.
 
-- [Keylogger with Email Output](https://github.com/Cody-Rochester/Cybersecurity/tree/main/Home%20Labs/Keylogger%20with%20Email%20Output)
+- [Keylogger with Email Output](https://github.com/Cody-Rochester/Cybersecurity/tree/main/Home%20Labs/Keylogger%20with%20Email%20Output) - Explore an element of digital surveilance with this C# keylogger. It functions as a typical keylogger and also has built in email output. 
 
 ## Skills and Technologies
 - **Penetration Testing:** Hands-on experience in identifying and exploiting vulnerabilities.
