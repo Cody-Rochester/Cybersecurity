@@ -13,7 +13,6 @@ Explore my solutions to various Capture The Flag challenges. These projects demo
 
 - [Pickle Rick CTF](https://github.com/Cody-Rochester/Cybersecurity/blob/main/Tryhackme/Pickle%20Rick%20CTF.md) - An exciting Rick and Morty-themed challenge involving web exploitation to help Rick transform back from a pickle. Check out the step-by-step process and key takeaways in the project documentation.
 
-- [Binary Reversing Challenge](#) - Delve into the world of binary reversing as I dissect and solve a challenging CTF challenge, showcasing my skills in reverse engineering.
 
 ## Home Lab Projects
 Embark on a journey through my home lab experiments, where I simulate real-world cybersecurity scenarios, set up security infrastructure, and fine-tune defensive mechanisms. These projects illustrate my practical knowledge in creating secure environments for testing and learning.
