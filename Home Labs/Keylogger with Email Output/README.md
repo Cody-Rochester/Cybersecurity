@@ -1,7 +1,43 @@
 <h1>FOR EDUCATIONAL USE ONLY</h1>
 <h1>Keylogger with Email Output</h1>
 <h2>Description</h2>
-<b> This is an example of a keylogger written in C#. It's primary function is to log keystrokes > convert that data into strings > create log files > access an email account through SMTP > create a draft > add the string to that draft > add the attachment to that draft > and send to a target email. The length of the strings logged, as well as the sending and receiving email addresses are all fully customizable utilizing this process. We also will cover how to run the process as a windows application to make it difficult to detect, as well as an option to set this application to run on startup creating stronger persistence.
+<b> This is an example of a keylogger written in C#. It's primary function is to:<b><b />
+ 
+<br />
+<br />
+<b>- log keystrokes</b>
+
+<br />
+<br />
+- convert that data into strings
+
+<br />
+<br />
+- create log files 
+
+<br />
+<br />
+- access an email account through SMTP 
+
+<br />
+<br />
+- create a draft
+
+<br />
+<br />
+- add the string to that draft
+
+<br />
+<br />
+- add the attachment to that draft
+
+<br />
+<br />
+- send to a target email
+
+<br />
+<br />
+The length of the strings logged, as well as the sending and receiving email addresses are all fully customizable utilizing this process. We also will cover how to run the process as a windows application to make it difficult to detect, as well as an option to set this application to run on startup creating stronger persistence.
 </b>
 
 <br />
