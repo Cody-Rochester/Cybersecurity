@@ -25,7 +25,6 @@ Embark on a journey through my home lab experiments, where I simulate real-world
 
 ## Skills and Technologies
 - **Penetration Testing:** Hands-on experience in identifying and exploiting vulnerabilities.
-- **Cryptography:** Proficient in cryptographic principles and their application in securing systems.
 - **Networking:** In-depth understanding of network security, including firewall configurations and intrusion detection systems.
 - **Incident Response:** Skilled in implementing incident response plans and strategies.
 - **Programming:** Competent in scripting languages such as Python for security automation.
