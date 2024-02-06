@@ -1,6 +1,6 @@
 # Cybersecurity Projects Portfolio
 
-Welcome to my GitHub repository showcasing a collection of cybersecurity projects that reflect my passion for ethical hacking, Capture The Flag (CTF) challenges, home lab experiments, and professional development in the cybersecurity field.
+Welcome to my GitHub repository showcasing a collection of cybersecurity projects that reflect my passion for ethical hacking, Capture The Flag (CTF) challenges, home labs, and professional development in the cybersecurity field.
 
 ## Table of Contents
 - [CTF Challenges](#ctf-challenges)
