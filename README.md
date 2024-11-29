@@ -32,5 +32,6 @@ Embark on a journey through my home lab experiments, where I simulate real-world
 ## Contact Information
 Feel free to reach out if you have questions, feedback, or if you're interested in collaborating on cybersecurity projects.
 
+
 - **Email:** cody.michael.rochester@gmail.com
 - **LinkedIn:** [codyro](https://linkedin.com/in/codyro)
