@@ -12,3 +12,5 @@ func main() {
 	fmt.Printf("Port Open: %t\n", open)
 
 }
+
+.
